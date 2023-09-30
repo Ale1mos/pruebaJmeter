@@ -31,4 +31,4 @@ jobs:
         uses: QAInsights/PerfAction@v3.1
         with:
           # jmeter test plan to execute
-           test-plan-path: './ejemplo.jmx'
+           test-plan-path: './apiEjemplo.jmx'
